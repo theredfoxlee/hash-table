@@ -1,0 +1,6 @@
+﻿---
+AlwaysBreakTemplateDeclarations: 'true'
+BreakBeforeBraces: Allman
+NamespaceIndentation: All
+
+...
