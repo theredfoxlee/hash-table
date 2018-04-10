@@ -19,7 +19,7 @@ int main()
 {
   constexpr size_t size = 20;
   
-  Hash<std::string, std::string, size, hash_function> hash;
+  kjdev::Hash<std::string, std::string, size, hash_function> hash;
 
   hash.insert("Doe", "John");
   hash.insert("eDo", "Jane");
